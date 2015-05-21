@@ -10,7 +10,7 @@ NotifyMe is a program that allows users to specify a specific shell command to r
 How do I use it?
 -------------------------------
 
-    ./NotifyMe your
+    ./NotifyMe <your code here>
 
 It broke my computer! What do I do?
 ------------------------------------
